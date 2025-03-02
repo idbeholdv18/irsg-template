@@ -8,5 +8,9 @@
   "keywords": [],
   "author": "idbehold18",
   "license": "MIT",
-  "description": "Create react app template for irsg CLI"
+  "description": "Create react app template for irsg CLI",
+  "devDependencies": {
+    "@types/webpack": "^5.28.5",
+    "webpack": "^5.98.0"
+  }
 }
